@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sanrever.github.io/bc_pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sanrever.github.io/bc_pages/</loc>
+</url>
+<url>
+<loc>https://sanrever.github.io/bc_pages/pacific-rim.html</loc>
+<lastmod>2022-10-27T16:22:21+02:00</lastmod>
+<image:image>
+<image:loc>https://sanrever.github.io/bc_pages/media\posts\1/0FB5A4DD-B1DD-4476-83D6-7C9FC86A0049.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sanrever.github.io/bc_pages/media\posts\1/7753E9F7-A404-4DC0-B277-91138DFAE413.jpg</image:loc>
+<image:title><![CDATA[Wild Pacific Trail]]></image:title>
+</image:image>
+</url>
+</urlset>

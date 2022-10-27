@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>British Columbia</title>
+    <link href="https://sanrever.github.io/bc_pages/feed.xml" rel="self" />
+    <link href="https://sanrever.github.io/bc_pages" />
+    <updated>2022-10-27T16:22:21+02:00</updated>
+    <author>
+        <name>Sandrine Le Page</name>
+    </author>
+    <id>https://sanrever.github.io/bc_pages</id>
+
+    <entry>
+        <title>Pacific Rim</title>
+        <author>
+            <name>Sandrine Le Page</name>
+        </author>
+        <link href="https://sanrever.github.io/bc_pages/pacific-rim.html"/>
+        <id>https://sanrever.github.io/bc_pages/pacific-rim.html</id>
+
+        <updated>2022-10-27T16:22:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sanrever.github.io/bc_pages/media/posts/1/0FB5A4DD-B1DD-4476-83D6-7C9FC86A0049.jpg" alt="" />
+                    Wild Pacific Trail 28 septembre 2022
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sanrever.github.io/bc_pages/media/posts/1/0FB5A4DD-B1DD-4476-83D6-7C9FC86A0049.jpg" alt="" />
+                <p>Wild Pacific Trail 28 septembre 2022</p>
+<figure class="post__image"><img loading="lazy"  src="https://sanrever.github.io/bc_pages/media/posts/1/7753E9F7-A404-4DC0-B277-91138DFAE413.jpg" sizes="100vw" srcset="https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-xs.jpg 300w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-sm.jpg 480w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-md.jpg 768w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-lg.jpg 1024w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-xl.jpg 1360w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-2xl.jpg 1600w"  alt="Wild Pacific Trail" width="1440" height="1086"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

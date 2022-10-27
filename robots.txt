@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sanrever.github.io/bc_pages/sitemap.xml

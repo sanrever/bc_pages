@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "British Columbia",
+    "description": "",
+    "home_page_url": "https://sanrever.github.io/bc_pages",
+    "feed_url": "https://sanrever.github.io/bc_pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sandrine Le Page"
+    },
+    "items": [
+        {
+            "id": "https://sanrever.github.io/bc_pages/pacific-rim.html",
+            "url": "https://sanrever.github.io/bc_pages/pacific-rim.html",
+            "title": "Pacific Rim",
+            "summary": "Wild Pacific Trail 28 septembre 2022",
+            "content_html": "<p>Wild Pacific Trail 28 septembre 2022</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sanrever.github.io/bc_pages/media/posts/1/7753E9F7-A404-4DC0-B277-91138DFAE413.jpg\" sizes=\"100vw\" srcset=\"https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-xs.jpg 300w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-sm.jpg 480w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-md.jpg 768w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-lg.jpg 1024w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-xl.jpg 1360w ,https://sanrever.github.io/bc_pages/media/posts/1/responsive/7753E9F7-A404-4DC0-B277-91138DFAE413-2xl.jpg 1600w\"  alt=\"Wild Pacific Trail\" width=\"1440\" height=\"1086\"></figure>",
+            "image": "https://sanrever.github.io/bc_pages/media/posts/1/0FB5A4DD-B1DD-4476-83D6-7C9FC86A0049.jpg",
+            "author": {
+                "name": "Sandrine Le Page"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T16:22:21+02:00",
+            "date_modified": "2022-10-27T16:22:21+02:00"
+        }
+    ]
+}
